@@ -1,0 +1,12 @@
+!.gitkeep
+*~
+.DS_Store
+.Thumbs
+._*
+.idea
+nginx/cache
+nginx/nginx.pid
+node_modules
+nohup.out
+npm-debug.log*
+~$*
