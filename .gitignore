@@ -5,6 +5,7 @@
 ._*
 .idea
 nginx/cache
+nginx/*.log
 nginx/nginx.pid
 node_modules
 nohup.out
